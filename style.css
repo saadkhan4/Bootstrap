@@ -1,3 +1,10 @@
+body{
+  background-color: #F1F1F3;
+}
+
+
+
+
 .btn-orange{
     background-color: orange;
     color:black;
@@ -13,5 +20,41 @@
 .btn-warning{
     background-color: orange;
     color: white;
+}
+.container-box{
+  border: 1px;
+  border-radius: 11px;
+  /* background-color: white; */
+  
+
+  
+}
+.header{
+  margin-top: 100px;
+
+
+
+
+
+}
+.unlock{
+  color: orange;
+  font-weight: 550;
+  letter-spacing: 1px;
+  
+}
+.icon-box{
+  width: 62px !important; 
+  height: 62px !important;
+  border-radius: 6px;
+}
+.stripe{
+  position: relative;
+  width: 43px;
+  height: 39px;
+  left: 30px;
+
+
+  
 
 }

@@ -36,9 +36,7 @@ body {
   font-size: 38px;
   color: #262626;
   line-height: 57px;
-
 }  
-
 
 .unlock {
   color:#FF9500;
@@ -68,5 +66,52 @@ h1 span {
   padding: 18px 24px;
   border: 0px solid;
   
+}
+.margin-top{
+  margin-top: 100px;
+}
+.bg-img{
+  background-image: url(./img/container.png);
+  height: 790px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.benefits-heading{
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+  color: #262626;
+}
+.benefits-text{
+ font-size: 18px;
+ color: #59595A;
+ line-height: 27px;
+}
+.view-button{
+  background-color: #FCFCFD;
+  padding: 18px 24px;
+  border: none;
+  font-weight: 500;
+}
+.bold-numbers{
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 24px;
+  color: #262626;
+}
+.card-heading{
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  color: #333333;
+}
+.card-text{
+  font-size: 18px;
+  line-height: 27px;
+  color: #4C4C4D;
+  
+
+
 
 }

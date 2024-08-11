@@ -35,7 +35,7 @@ body {
   font-weight: 500;
   font-size: 38px;
   color: #262626;
-  line-height: 57px;
+  /* line-height: 57px; */
 }  
 
 .unlock {
@@ -80,13 +80,13 @@ h1 span {
 .benefits-heading{
   font-weight: 600;
   font-size: 48px;
-  line-height: 72px;
+  /* line-height: 72px; */
   color: #262626;
 }
 .benefits-text{
  font-size: 18px;
  color: #59595A;
- line-height: 27px;
+ /* line-height: 27px; */
 }
 .view-button{
   background-color: #FCFCFD;
@@ -97,21 +97,33 @@ h1 span {
 .bold-numbers{
   font-weight: 700;
   font-size: 80px;
-  line-height: 24px;
+  /* line-height: 24px; */
   color: #262626;
+  margin-bottom: 0;
 }
 .card-heading{
-  font-weight: 600;
+  font-weight: 600 !important;
   font-size: 24px;
-  line-height: 36px;
+  /* line-height: 36px; */
   color: #333333;
+  margin-bottom: 0;
 }
 .card-text{
   font-size: 18px;
-  line-height: 27px;
+  /* line-height: 27px; */
   color: #4C4C4D;
-  
-
-
+}
+.card-height{
+  height: 477px;
 
 }
+.weeks{
+  padding: 10px 16px;
+  color: #4C4C4D;
+  border-radius: 8px;
+  background-color: #FFFFFF;
+  border: 1px solid #F1F1F3;
+  gap: 10px;
+}
+
+

@@ -149,4 +149,22 @@ h1 span {
   background-color: #FF9500;
   
 }
+.card-names{
+  font-size: 18px;
+  font-weight: 600;
+  color:#333333;
+}
+.card-body{
+  padding: 30px 50px;
+  background-color: #FCFCFD;
 
+}
+.read-button{
+  font-size: 18px;
+  padding: 18px 24px;
+  border-radius: 8px;
+  border: 1px solid #F1F1F3;
+  background-color: #F7F7F8;
+  font-weight: 500;
+  color: #262626;
+}

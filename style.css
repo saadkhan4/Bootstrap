@@ -168,3 +168,31 @@ h1 span {
   font-weight: 500;
   color: #262626;
 }
+hr{
+  color: #F1F1F3;
+  margin: 0px;
+}
+.tabs{
+  padding: 12px 12px;
+  border-radius: 8px;
+  background-color: #FFFFFF;
+}
+.monthly-button{
+  padding: 14px 30px;
+  border: none;
+  border-radius: 6px;
+  background-color: #FF9500;
+  font-weight: 500;
+  font-size: 18px;
+  color: #FFFFFF;
+
+}
+.yearly-button{
+  padding: 14px 30px;
+  border: none;
+  background-color: #FFFFFF;
+  font-weight: 500;
+  font-size: 18px;
+  color: #4C4C4D;
+}
+

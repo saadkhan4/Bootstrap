@@ -196,3 +196,67 @@ hr{
   color: #4C4C4D;
 }
 
+.membership-card{
+  border-radius: 12px;
+  border: 1px solid #F1F1F3;
+  background-color: #FCFCFD;
+}
+.padding{
+  padding: 80px;
+}
+.free-plan{
+  padding: 12px 22px;
+  border-radius: 6px;
+  border: 1px solid #FFEACC;
+  background-color: #FFF9F0;
+  font-size: 22px;
+  font-weight: 500;
+  color: #262626;
+
+}
+.price{
+  font-size: 80px;
+  font-weight: 600;
+  color: #262626;
+}
+.month{
+  font-size: 20px;
+  font-weight: 500;
+  color: #4C4C4D;
+}
+.heading{
+  font-size: 20px;
+  font-weight: 500;
+  color: #262626;
+
+}
+.items-container{
+  padding: 0px 30px;
+}
+.feature-items{
+  padding: 14px;
+  border-radius: 8px;
+  border: 1px solid #F1F1F3;
+}
+.padding2{
+  padding: 12px;
+}
+.padding3{
+  padding: 50px 30px 30px 30px;
+}
+.get-started{
+  background-color: #FF9500;
+  padding: 20px 24px;
+  border: none;
+  color: #FFFFFF;
+
+}
+.get-started-text{
+  font-weight: 600;
+  font-size: 18px;
+  color: #FFFFFF;
+
+
+
+
+}

@@ -110,7 +110,6 @@ h1 span {
 }
 .card-text{
   font-size: 18px;
-  /* line-height: 27px; */
   color: #4C4C4D;
 }
 .card-height{
@@ -255,8 +254,24 @@ hr{
   font-weight: 600;
   font-size: 18px;
   color: #FFFFFF;
-
+}
+.padding4{
+  padding: 100px;
+}
+.faq-text{
+font-size: 18px;
+  color: #4C4C4D;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.faq-card1{
+  border: 1px solid #F1F1F3;
+  
 
 
 
 }
+
+
+
+

@@ -266,12 +266,34 @@ font-size: 18px;
 }
 .faq-card1{
   border: 1px solid #F1F1F3;
-  
+
+}
+.sub-container2{
+padding: 20px 30px !important;
+font-size: 18px;
+font-weight: 500;
+color: #333333;
+border-radius: 12px;
+border: 1px solid #F1F1F3;
+background-color: #F7F7F8;
+
+}
+.padding5{
+  padding-top: 30px;
+
+}
+.faq-card2{
+  padding: 30px 50px;
+  border: 1px solid #F1F1F3;
+  background-color: #FFFFFF;
+  border-radius: 12px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #262626;
+
 
 
 
 }
-
-
 
 

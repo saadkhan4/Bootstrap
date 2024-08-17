@@ -100,6 +100,7 @@ h1 span {
   /* line-height: 24px; */
   color: #262626;
   margin-bottom: 0;
+  
 }
 .card-heading{
   font-weight: 600 !important;
@@ -155,7 +156,7 @@ h1 span {
 }
 .card-body{
   padding: 30px 50px;
-  background-color: #FCFCFD;
+  background-color: #FFFFFF;
 
 }
 .read-button{

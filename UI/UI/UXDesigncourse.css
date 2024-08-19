@@ -42,3 +42,14 @@ body{
     font-weight: 600;
 
 }
+.main-paragraph{
+    font-size: 18px;
+    color: #59595A;
+    font-weight: 400px;
+}
+.margin-top2{
+    margin-top: 80px;
+}
+.padding1{
+    padding-right: 100px;
+}

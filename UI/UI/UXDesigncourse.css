@@ -95,3 +95,49 @@ body{
 .padding2{
     padding: 40px;
 }
+.hour-1-white{
+    background-color: #F7F7F8;
+}
+.footer-section{
+    background-color:white;
+    padding: 60px 80px 20px 80px;
+
+
+}
+.margin-top4{
+    margin-top: 100px;
+}
+.paragraph{
+  color: #262626 !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  
+}
+.footer-headings{
+font-size: 20px;
+font-weight: 600;
+color: #262626;
+
+}
+.footer-text{
+font-size: 16px !important;
+ color: #59595A !important;
+ font-weight: 400 !important;
+
+}
+.margin-bottom{
+  margin-bottom: 10px;
+}
+.margin-bottom2{
+  margin-bottom: 8px;
+}
+.mail-padding{
+    padding: 4px;
+}
+.copyright-text{
+  color: #656567;
+  font-size: 18px;
+}
+.hr-color{
+    color: #F1F1F3;
+}

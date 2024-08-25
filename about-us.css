@@ -53,3 +53,18 @@ body{
 .margin-top2{
   margin-top: 60px;
 }
+.margin-top3{
+    margin-top: 100px;
+}
+.design-section{
+    background-color: white;
+    padding: 60px 60px !important;
+}
+.orange-color{
+    color: #FF9500;
+}
+.shape{
+    position: relative;
+    left: 60px;
+    bottom: 40px;
+}

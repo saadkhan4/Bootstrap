@@ -48,7 +48,7 @@ body{
 .main-paragraph{
     font-size: 16px;
     color: #59595A;
-    font-weight: 400px;
+    font-weight: 400;
 }
 .margin-top2{
   margin-top: 60px;
@@ -65,9 +65,8 @@ body{
 }
 .shape{
     position: absolute;
-    top: 2008px;
-    z-index: 0;
-    left: 799px;
+    top: 0;
+    right: 210px;
 }
 .shape-img{
     height: 264px !important;
@@ -122,8 +121,47 @@ a:hover {
 }
 .footer-section{
     background-color:white;
-    padding: 60px 80px 20px 80px;
+    padding: 60px 30px 20px 30px;
 }
 .hr-color{
     color: #F1F1F3;
 }
+.shape-paragraph{
+    font-size: 17px !important;
+    color: #59595A;
+    font-weight: 400;
+}
+.card-body{
+  padding: 40px !important;
+}
+.card{
+  height: 275px !important;
+}
+@media only screen and (max-width: 992px){
+.card{
+  height: 400px !important;
+}
+
+}
+@media only screen and (max-width: 767px){
+.card{
+  height: 320px !important;
+}
+
+}
+
+@media only screen and (min-width: 250px) and (max-width: 768px)  { 
+  .card{
+  height: 320px !important;
+}
+  
+ }
+ @media only screen and (min-width: 769px) and (max-width: 992px)  { 
+  .card{
+  height: 400px !important;
+}
+  
+ }
+  @media only screen and (min-width: 993px) and (max-width: 1200px)  { 
+  
+ }

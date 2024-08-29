@@ -99,8 +99,129 @@ a:hover {
   color: #59595a;
 }
 
-@media only screen and (min-width: 250px) and (max-width: 768px) {
- 
+@media only screen and (min-width: 250px) and (max-width: 374px) {
+  /* extra small screen */
+  .card {
+     height: 300px !important;
+  }
+
+  body {
+    margin-top: 20px !important;
+  }
+
+  .btn-link {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+  }
+
+  .login-button {
+    padding: 12px 24px;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 6px;
+  }
+
+  .btn {
+    font-size: 14px !important;
+    font-weight: 400px !important;
+  }
+
+  .nav-link {
+    font-size: 14px !important;
+    font-weight: 400 !important;
+  }
+
+  .margin-top1 {
+    margin-top: 80px;
+  }
+
+  .main-heading {
+    font-size: 38px;
+    font-weight: 600;
+  }
+
+  .main-paragraph {
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .margin-top2 {
+    margin-top: 60px;
+  }
+
+  .margin-top3 {
+    margin-top: 100px;
+  }
+
+  .design-section {
+    padding: 60px 30px !important;
+  }
+
+  .shape {
+    bottom: -98px;
+    right: -2px;
+  }
+
+  .shape-img {
+   height: 200px;
+   width: 200px;
+  }
+
+  .btn-orange {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    border-radius: 6px !important;
+    padding: 14px 20px;
+  }
+
+  .footer-headings {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .footer-text {
+    font-size: 16px !important;
+    font-weight: 400 !important;
+  }
+
+  .margin-bottom {
+    margin-bottom: 10px;
+  }
+
+  .margin-bottom2 {
+    margin-bottom: 8px;
+  }
+
+  .mail-padding {
+    padding: 4px;
+  }
+
+  .copyright-text {
+    font-size: 14px;
+  }
+
+  .paragraph {
+    font-size: 16px !important;
+    font-weight: 400 !important;
+  }
+
+  .footer-section {
+    padding: 60px 30px 20px 30px;
+  }
+
+  .shape-paragraph {
+    font-size: 17px !important;
+    font-weight: 400;
+  }
+  
+/* extra small screen completed */
+
+}
+
+@media only screen and (min-width: 375px) and (max-width: 768px) {
+  /* small screen  */
+
   body {
     margin-top: 40px !important;
   }
@@ -141,7 +262,8 @@ a:hover {
     font-size: 16px;
     font-weight: 400;
   }
-  .skillbridge-padding{
+
+  .skillbridge-padding {
     padding-bottom: 30px;
   }
 
@@ -152,17 +274,18 @@ a:hover {
   .margin-top3 {
     margin-top: 100px;
   }
-.margin-top4{
-   margin-top: 20px !important;
-}
+
+  .margin-top4 {
+    margin-top: 20px !important;
+  }
 
   .design-section {
     padding: 60px 60px !important;
   }
 
   .shape {
-         bottom: -98px;
-        right: -26px;
+    bottom: -98px;
+    right: -26px;
   }
 
   .shape-img {
@@ -194,7 +317,7 @@ a:hover {
   .margin-bottom2 {
     margin-bottom: 8px;
   }
-  
+
 
   .mail-padding {
     padding: 4px;
@@ -221,15 +344,18 @@ a:hover {
   .card-body {
     padding: 30px !important;
   }
-   .card {
+
+  .card {
     height: 320px !important;
-    
+
   }
 }
+/* small screen completed */
 
 @media only screen and (min-width: 769px) and (max-width: 992px) {
+  /* medium screen */
   .card {
-    height: 400px !important;
+    height: 380px !important;
   }
 
   body {
@@ -246,6 +372,7 @@ a:hover {
     padding: 12px 24px;
     font-size: 14px;
     font-weight: 400;
+    border-radius: 6px;
   }
 
   .btn {
@@ -285,13 +412,13 @@ a:hover {
   }
 
   .shape {
-    top: 0;
-    right: 210px;
+    bottom: -98px;
+    right: -26px;
   }
 
   .shape-img {
-    height: 264px !important;
-    width: 361px !important;
+    height: 235px !important;
+    width: 320px !important;
   }
 
   .btn-orange {
@@ -345,8 +472,11 @@ a:hover {
     padding: 40px !important;
   }
 }
+/* medium screen completed */
 
 @media only screen and (min-width: 993px) and (max-width: 1500px) {
+  /* large screen */
+
   body {
     background-color: #f1f1f3 !important;
     margin-top: 20px !important;
@@ -363,6 +493,7 @@ a:hover {
     padding: 12px 24px;
     font-size: 14px;
     font-weight: 400;
+    border-radius: 8px !important;
   }
 
   .btn {
@@ -402,8 +533,8 @@ a:hover {
   }
 
   .shape {
-    top: 0;
-    right: 210px;
+    bottom: 1px;
+    right: 180px;
   }
 
   .shape-img {
@@ -466,6 +597,10 @@ a:hover {
     height: 275px !important;
   }
 }
+/* large screen completed */
+
+
+
 /* @media only screen and (min-width: 1201px) and (max-width: 2000px) {
   body {
     background-color: #f1f1f3 !important;

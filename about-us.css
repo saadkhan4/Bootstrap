@@ -663,13 +663,14 @@ a:hover {
   .shape {
     bottom: 1px;
     right: 180px;
-  }
+  }  
 
   .shape-img {
     height: 264px !important;
     width: 361px !important;
     position: absolute;
-    
+    right: -10px;
+    bottom: 0px;  
   }
 
   .btn-orange {

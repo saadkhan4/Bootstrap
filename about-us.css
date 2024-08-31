@@ -603,7 +603,7 @@ a:hover {
 /* /* large screen */
 
 @media only screen and (min-width: 1201px) and (max-width: 2000px) {
-  /* etrax large screen */
+  /* extra large screen */
 
   body {
     background-color: #f1f1f3 !important;
@@ -729,3 +729,134 @@ a:hover {
   }
 } 
 /* extra large screen completed */
+
+
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+  /* 1200px till 1400px */
+
+  body {
+    background-color: #f1f1f3 !important;
+    margin-top: 20px !important;
+  }
+
+  .btn-link {
+    border-radius: 6px !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+  }
+
+  .login-button {
+    padding: 12px 24px;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 8px !important;
+  }
+
+  .btn {
+    font-size: 14px !important;
+    font-weight: 400px !important;
+  }
+
+  .nav-link {
+    font-size: 14px !important;
+    font-weight: 400 !important;
+  }
+
+  .margin-top1 {
+    margin-top: 80px;
+  }
+
+  .main-heading {
+    font-size: 38px;
+    font-weight: 600;
+  }
+
+  .main-paragraph {
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .margin-top2 {
+    margin-top: 60px;
+  }
+
+  .margin-top3 {
+    margin-top: 100px;
+  }
+
+  .design-section {
+    padding: 60px 60px !important;
+  }
+
+  .shape {
+    bottom: 1px;
+    right: 180px;
+  }  
+
+  .shape-img {
+    height: 290px !important;
+    width: 290px !important;
+    position: absolute;
+    right: -48px;
+    bottom: 0px;  
+  }
+
+  .btn-orange {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    border-radius: 6px !important;
+    padding: 14px 20px;
+  }
+
+  .footer-headings {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .footer-text {
+    font-size: 16px !important;
+    font-weight: 400 !important;
+  }
+
+  .margin-bottom {
+    margin-bottom: 10px;
+  }
+
+  .margin-bottom2 {
+    margin-bottom: 8px;
+  }
+
+  .mail-padding {
+    padding: 4px;
+  }
+
+  .copyright-text {
+    font-size: 14px;
+  }
+
+  .paragraph {
+    font-size: 16px !important;
+    font-weight: 400 !important;
+  }
+
+  .footer-section {
+    padding: 60px 30px 20px 30px;
+  }
+
+  .shape-paragraph {
+    font-size: 17px !important;
+    font-weight: 400;
+  }
+
+  .card-body {
+    padding: 40px !important;
+  }
+
+  .card {
+    height: 275px !important;
+  }
+} 
+/* 1200px till 1400px */
